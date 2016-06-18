@@ -11,7 +11,7 @@ print "Start : %s" % time.ctime()
 html = urlopen("http://www.imdb.com/chart/top")
 soup = BeautifulSoup(html.read())
 poster_columns = soup.findAll('td', {'class':'posterColumn'})
-print "script generates the top250 data from imdb in xml file"
+print "script generates the top250 data from imdb and write output to xml file"
 print "to get data of: ",len(poster_columns)
 count=1
 movies = Element('movies')
@@ -27,7 +27,7 @@ for poster in poster_columns:
 	    movie_url = 'http://www.imdb.com/'+str(poster.a['href'])
 	    mv_url_id = movie_url.split('/?', 1)[0]
 	    SubElement(movie,'movieurl',name='movieurl').text=mv_url_id
-	    print 'accessign ', title ,'from',  mv_url_id
+	    print  'accessign ',count,"::", title ,'from',  mv_url_id
 	    html1 = urlopen(movie_url)
 	    mpage = BeautifulSoup(html1.read())
 	    #to find summary
@@ -56,14 +56,16 @@ for poster in poster_columns:
 	    mov_z = mov_y.findNext('div',{'class':'txt-block'})
 	    mov_z_as = mov_z.findAll('a')
 	    #prints all languages
+	    langs = SubElement(movie,'Languages')
 	    for mov_z_a in mov_z_as:
-		print mov_z_a.text
+		SubElement(langs,'Language').text=mov_z_a.text
+		#print mov_z_a.text
 
 	    #duration of movie
 	    mov_time = mpage.find('time',{'itemprop':'duration'}).text
-	    print mov_time	
+#	    print mov_time	
 	    SubElement(movie,'duration',name='duration').text=mov_time
-	    print mov_country	
+#	    print mov_country	
 	    SubElement(movie,'country',name='country').text=mov_country
 
             img_url = poster.a.img['src']
