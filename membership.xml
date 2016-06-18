@@ -1,0 +1,561 @@
+<?xml version="1.0"?><movies><movie><title name="title">The Shawshank Redemption</title><director name="director">Frank Darabont </director><movieurl name="movieurl">http://www.imdb.com//title/tt0111161</movieurl><summary name="summary">Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.</summary><titleyear name="titleyear">1994</titleyear><ratingvalue name="ratingvalue">9.3</ratingvalue><ratingcount name="ratingcount">1,667,008</ratingcount><genres><genre name="genre">Crime</genre><genre name="genre">Drama</genre></genres><duration name="duration">2h 22min</duration><country name="country">USA</country><casts><character><charactername name="charactername">Andy Dufresne</charactername><actorname name="actorname">Tim Robbins</actorname></character><character><charactername name="charactername">Ellis Boyd 'Red' Redding</charactername><actorname name="actorname">Morgan Freeman</actorname></character><character><charactername name="charactername">Warden Norton</charactername><actorname name="actorname">Bob Gunton</actorname></character><character><charactername name="charactername">Heywood</charactername><actorname name="actorname">William Sadler</actorname></character><character><charactername name="charactername">Captain Hadley</charactername><actorname name="actorname">Clancy Brown</actorname></character><character><charactername name="charactername">Tommy</charactername><actorname name="actorname">Gil Bellows</actorname></character><character><charactername name="charactername">Bogs Diamond</charactername><actorname name="actorname">Mark Rolston</actorname></character><character><charactername name="charactername">Brooks Hatlen</charactername><actorname name="actorname">James Whitmore</actorname></character><character><charactername name="charactername">1946 D.A.</charactername><actorname name="actorname">Jeffrey DeMunn</actorname></character><character><charactername name="charactername">Skeet</charactername><actorname name="actorname">Larry Brandenburg</actorname></character><character><charactername name="charactername">Jigger</charactername><actorname name="actorname">Neil Giuntoli</actorname></character><character><charactername name="charactername">Floyd</charactername><actorname name="actorname">Brian Libby</actorname></character><character><charactername name="charactername">Snooze</charactername><actorname name="actorname">David Proval</actorname></character><character><charactername name="charactername">Ernie</charactername><actorname name="actorname">Joseph Ragno</actorname></character><character><charactername name="charactername">Guard Mert</charactername><actorname name="actorname">Jude Ciccolella</actorname></character><character><charactername name="charactername">Guard Trout</charactername><actorname name="actorname">Paul McCrane</actorname></character><character><charactername name="charactername">Andy Dufresne's Wife</charactername><actorname name="actorname">Renee Blaine</actorname></character><character><charactername name="charactername">Glenn Quentin</charactername><actorname name="actorname">Scott Mann</actorname></character><character><charactername name="charactername">1946 Judge</charactername><actorname name="actorname">John Horton</actorname></character><character><charactername name="charactername">1947 Parole Hearings Man 
+  
+  
+  </charactername><actorname name="actorname">Gordon Greene</actorname></character><character><charactername name="charactername">Fresh Fish Con</charactername><actorname name="actorname">Alfonso Freeman</actorname></character><character><charactername name="charactername">Hungry Fish Con</charactername><actorname name="actorname">V.J. Foster</actorname></character><character><charactername name="charactername">New Fish Guard</charactername><actorname name="actorname">John E. Summers</actorname></character><character><charactername name="charactername">Fat Ass</charactername><actorname name="actorname">Frank Medrano</actorname></character><character><charactername name="charactername">Tyrell</charactername><actorname name="actorname">Mack Miles</actorname></character><character><charactername name="charactername">Laundry Bob</charactername><actorname name="actorname">Alan R. Kessler</actorname></character><character><charactername name="charactername">Laundry Truck Driver</charactername><actorname name="actorname">Morgan Lund</actorname></character><character><charactername name="charactername">Laundry Leonard</charactername><actorname name="actorname">Cornell Wallace</actorname></character><character><charactername name="charactername">Rooster</charactername><actorname name="actorname">Gary Lee Davis</actorname></character><character><charactername name="charactername">Pete</charactername><actorname name="actorname">Neil Summers</actorname></character><character><charactername name="charactername">Guard Youngblood</charactername><actorname name="actorname">Ned Bellamy</actorname></character><character><charactername name="charactername">Projectionist 
+  
+  
+  </charactername><actorname name="actorname">Joe Pecoraro</actorname></character><character><charactername name="charactername">Hole Guard</charactername><actorname name="actorname">Harold E. Cope Jr.</actorname></character><character><charactername name="charactername">Guard Dekins</charactername><actorname name="actorname">Brian Delate</actorname></character><character><charactername name="charactername">Guard Wiley 
+  
+  
+  </charactername><actorname name="actorname">Don McManus</actorname></character><character><charactername name="charactername">Moresby Batter</charactername><actorname name="actorname">Donald Zinn</actorname></character><character><charactername name="charactername">1954 Landlady</charactername><actorname name="actorname">Dorothy Silver</actorname></character><character><charactername name="charactername">1954 Food-Way Manager</charactername><actorname name="actorname">Robert Haley</actorname></character><character><charactername name="charactername">1954 Food-Way Woman</charactername><actorname name="actorname">Dana Snyder</actorname></character><character><charactername name="charactername">1957 Parole Hearings Man</charactername><actorname name="actorname">John D. Craig</actorname></character><character><charactername name="charactername">Ned Grimes</charactername><actorname name="actorname">Ken Magee</actorname></character><character><charactername name="charactername">Mail Caller 
+  
+  
+  </charactername><actorname name="actorname">Eugene C. DePasquale</actorname></character><character><charactername name="charactername">Elmo Blatch</charactername><actorname name="actorname">Bill Bolender</actorname></character><character><charactername name="charactername">Elderly Hole Guard</charactername><actorname name="actorname">Ron Newell</actorname></character><character><charactername name="charactername">Bullhorn Tower Guard</charactername><actorname name="actorname">John R. Woodward</actorname></character><character><charactername name="charactername">Man Missing Guard</charactername><actorname name="actorname">Chuck Brauchler</actorname></character><character><charactername name="charactername">Head Bull Haig</charactername><actorname name="actorname">Dion Anderson</actorname></character><character><charactername name="charactername">Bank Teller</charactername><actorname name="actorname">Claire Slemmer</actorname></character><character><charactername name="charactername">Bank Manager</charactername><actorname name="actorname">James Kisicki</actorname></character><character><charactername name="charactername">Bugle Editor</charactername><actorname name="actorname">Rohn Thomas</actorname></character><character><charactername name="charactername">1966 D.A.</charactername><actorname name="actorname">Charlie Kearns</actorname></character><character><charactername name="charactername">Duty Guard</charactername><actorname name="actorname">Rob Reider</actorname></character><character><charactername name="charactername">1967 Parole Hearings Man</charactername><actorname name="actorname">Brian Brophy</actorname></character><character><charactername name="charactername">1967 Food-Way Manager</charactername><actorname name="actorname">Paul Kennedy</actorname></character><character><charactername name="charactername">Con 
+  
+  
+  </charactername><actorname name="actorname">Neil Riddaway</actorname></character><character><charactername name="charactername">Con 
+  
+  
+  </charactername><actorname name="actorname">James Babson</actorname></character><character><charactername name="charactername">Old Man on Bus 
+  
+  
+  </charactername><actorname name="actorname">Dennis Baker</actorname></character><character><charactername name="charactername">Police Officer 
+  
+  
+  </charactername><actorname name="actorname">Fred Culbertson</actorname></character><character><charactername name="charactername">Con 
+  
+  
+  </charactername><actorname name="actorname">Richard Doone</actorname></character><character><charactername name="charactername">Gilda Mundson Farrell</charactername><actorname name="actorname">Rita Hayworth</actorname></character><character><charactername name="charactername">Bank Teller 
+  
+  
+  </charactername><actorname name="actorname">David Hecht</actorname></character><character><charactername name="charactername">Inmate 
+  
+  
+  </charactername><actorname name="actorname">Alonzo F. Jones</actorname></character><character><charactername name="charactername">Convict 
+  
+  
+  </charactername><actorname name="actorname">Gary Jones</actorname></character><character><charactername name="charactername">Inmate II 
+  
+  
+  </charactername><actorname name="actorname">Sergio Kato</actorname></character><character><charactername name="charactername">Con 
+  
+  
+  </charactername><actorname name="actorname">Michael Lightsey</actorname></character><character><charactername name="charactername">Traffic </charactername><actorname name="actorname">Chris Page</actorname></character><character><charactername name="charactername">Prison Guard 
+  
+  
+  </charactername><actorname name="actorname">Brad Pyner</actorname></character><character><charactername name="charactername">1957 Parole Hearings Guard 
+  
+  
+  </charactername><actorname name="actorname">Brad Spencer</actorname></character><character><charactername name="charactername">New Fish Con 
+  
+  
+  </charactername><actorname name="actorname">Jodiviah Stepp</actorname></character></casts><RelatedKeywords><keyword>prison</keyword><keyword>escape from prison</keyword><keyword>wrongful imprisonment</keyword><keyword>prison cell search</keyword><keyword>first person narration</keyword><keyword>based on the works of stephen king</keyword><keyword>male nudity</keyword><keyword>rita hayworth poster</keyword><keyword>parole board</keyword><keyword>suicide of villain</keyword><keyword>suicide of friend</keyword><keyword>friendship between men</keyword><keyword>parole hearing</keyword><keyword>gay rape</keyword><keyword>prison yard</keyword><keyword>prison library</keyword><keyword>reference to rita hayworth</keyword><keyword>prison guard</keyword><keyword>life imprisonment</keyword><keyword>imprisonment</keyword><keyword>redemption</keyword><keyword>bromance</keyword><keyword>gay sex</keyword><keyword>shower room</keyword><keyword>beaten to death</keyword><keyword>voice over letter</keyword><keyword>black market</keyword><keyword>shiv</keyword><keyword>infidelity</keyword><keyword>trial</keyword><keyword>suicide by gunshot</keyword><keyword>shot to death</keyword><keyword>violence</keyword><keyword>missing prisoner</keyword><keyword>tunneling to freedom</keyword><keyword>rock hammer</keyword><keyword>solitary confinement</keyword><keyword>voice over narration</keyword><keyword>wrongful conviction</keyword><keyword>police brutality</keyword><keyword>cult film</keyword><keyword>suicide</keyword><keyword>suicide by hanging</keyword><keyword>based on novella</keyword><keyword>plot twist</keyword><keyword>surprise ending</keyword><keyword>banker</keyword><keyword>talking to a bird</keyword><keyword>vinyl record</keyword><keyword>prison cell</keyword><keyword>betting</keyword><keyword>watching a movie</keyword><keyword>murder trial</keyword><keyword>prison bus</keyword><keyword>poster</keyword><keyword>biblical quote</keyword><keyword>bible</keyword><keyword>murder</keyword><keyword>gay subtext</keyword><keyword>penknife</keyword><keyword>vomiting</keyword><keyword>killed by prison guard</keyword><keyword>male rear nudity</keyword><keyword>underdog</keyword><keyword>bookshelf</keyword><keyword>slow dolly in</keyword><keyword>telephoto lens</keyword><keyword>stone fence</keyword><keyword>reference to jfk assassination</keyword><keyword>laundering money</keyword><keyword>stone wall</keyword><keyword>cornfield</keyword><keyword>tarring roof</keyword><keyword>sampler</keyword><keyword>helicopter shot</keyword><keyword>adding machine</keyword><keyword>boom shot</keyword><keyword>sex standing up</keyword><keyword>birdseye shot</keyword><keyword>feces</keyword><keyword>oak tree</keyword><keyword>elderly man</keyword><keyword>prison escape</keyword><keyword>official corruption</keyword><keyword>directorial debut</keyword><keyword>reading a letter aloud</keyword><keyword>homoeroticism</keyword><keyword>camaraderie</keyword><keyword>locking oneself inside a room</keyword><keyword>year 1963</keyword><keyword>parole violation</keyword><keyword>threaten to drop from a height</keyword><keyword>sitting on a rooftop</keyword><keyword>bottle of beer</keyword><keyword>tar pitch</keyword><keyword>maggot</keyword><keyword>interracial friendship</keyword><keyword>murder of wife</keyword><keyword>convicted of murder</keyword><keyword>ambulance</keyword><keyword>beating</keyword><keyword>hammer</keyword><keyword>brutality</keyword><keyword>billy club</keyword><keyword>warden</keyword><keyword>adultery</keyword><keyword>revolver</keyword><keyword>reporter</keyword><keyword>police arrest</keyword><keyword>lightning</keyword><keyword>sewer</keyword><keyword>manhunt</keyword><keyword>collector</keyword><keyword>kickback</keyword><keyword>income tax</keyword><keyword>subjective camera</keyword><keyword>character's point of view camera shot</keyword><keyword>weapon</keyword><keyword>tunnel</keyword><keyword>search party</keyword><keyword>search</keyword><keyword>police car siren</keyword><keyword>police car</keyword><keyword>freedom</keyword><keyword>bullet</keyword><keyword>bloodhound</keyword><keyword>betrayal</keyword><keyword>unfaithful wife</keyword><keyword>poetic justice</keyword><keyword>mentor</keyword><keyword>male bonding</keyword><keyword>illiteracy</keyword><keyword>filth</keyword><keyword>beer</keyword><keyword>accountant</keyword><keyword>flashback</keyword><keyword>false accusation</keyword><keyword>maine</keyword><keyword>zihuatanejo mexico</keyword><keyword>mexico</keyword><keyword>courtroom</keyword><keyword>hanging</keyword><keyword>bribery</keyword><keyword>revenge</keyword><keyword>embezzlement</keyword><keyword>parole</keyword><keyword>bribe</keyword><keyword>death of friend</keyword><keyword>prisoner</keyword><keyword>convict</keyword><keyword>time</keyword><keyword>hope</keyword><keyword>shoe shine</keyword><keyword>large format camera</keyword><keyword>public address system</keyword><keyword>feet on desk</keyword><keyword>tax return</keyword><keyword>chess piece</keyword><keyword>chess set</keyword><keyword>listening to music on headphones</keyword><keyword>singing along with a record</keyword><keyword>rooftop</keyword><keyword>reference to john f. kennedy</keyword><keyword>apple pie</keyword><keyword>three word title</keyword><keyword>checkers</keyword><keyword>water hose</keyword><keyword>judge</keyword><keyword>compass</keyword><keyword>postcard</keyword><keyword>photographer</keyword><keyword>harmonica</keyword><keyword>pigeon</keyword><keyword>city park</keyword><keyword>newspaper headline</keyword><keyword>photograph</keyword><keyword>reference to albert einstein</keyword><keyword>rope</keyword><keyword>reference to robert frost</keyword><keyword>shoeshine</keyword><keyword>reference to raquel welch</keyword><keyword>reference to alexandre dumas</keyword><keyword>reference to al capone</keyword><keyword>reference to marilyn monroe</keyword><keyword>reference to rembrandt</keyword><keyword>reference to erle stanley gardner</keyword><keyword>wall safe</keyword><keyword>reference to louis l'amour</keyword><keyword>phonograph record</keyword><keyword>reference to hank williams</keyword><keyword>year 1957</keyword><keyword>year 1954</keyword><keyword>year 1949</keyword><keyword>year 1947</keyword><keyword>reference to robert louis stevenson</keyword><keyword>year 1966</keyword><keyword>typewriter</keyword><keyword>reference to mozart</keyword><keyword>year 1946</keyword><keyword>water</keyword><keyword>thunder</keyword><keyword>siren</keyword><keyword>shoes</keyword><keyword>rain</keyword><keyword>pet</keyword><keyword>night</keyword><keyword>glasses</keyword><keyword>friendship</keyword><keyword>flashlight</keyword><keyword>flash camera</keyword><keyword>darkness</keyword><keyword>broken window</keyword><keyword>bet</keyword><keyword>box office flop</keyword><keyword>letter</keyword><keyword>worm</keyword><keyword>water pipe</keyword><keyword>record player</keyword><keyword>pie</keyword><keyword>pet bird</keyword><keyword>hollow book</keyword><keyword>library</keyword><keyword>crow</keyword><keyword>jail</keyword></RelatedKeywords></movie><movie><title name="title">The Godfather</title><director name="director">Francis Ford Coppola </director><movieurl name="movieurl">http://www.imdb.com//title/tt0068646</movieurl><summary name="summary">The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.</summary><titleyear name="titleyear">1972</titleyear><ratingvalue name="ratingvalue">9.2</ratingvalue><ratingcount name="ratingcount">1,140,707</ratingcount><genres><genre name="genre">Crime</genre><genre name="genre">Drama</genre></genres><duration name="duration">2h 55min</duration><country name="country">USA</country><casts><character><charactername name="charactername">Don Vito Corleone</charactername><actorname name="actorname">Marlon Brando</actorname></character><character><charactername name="charactername">Michael Corleone</charactername><actorname name="actorname">Al Pacino</actorname></character><character><charactername name="charactername">Sonny Corleone</charactername><actorname name="actorname">James Caan</actorname></character><character><charactername name="charactername">Clemenza</charactername><actorname name="actorname">Richard S. Castellano</actorname></character><character><charactername name="charactername">Tom Hagen</charactername><actorname name="actorname">Robert Duvall</actorname></character><character><charactername name="charactername">Capt. McCluskey</charactername><actorname name="actorname">Sterling Hayden</actorname></character><character><charactername name="charactername">Jack Woltz</charactername><actorname name="actorname">John Marley</actorname></character><character><charactername name="charactername">Barzini</charactername><actorname name="actorname">Richard Conte</actorname></character><character><charactername name="charactername">Sollozzo</charactername><actorname name="actorname">Al Lettieri</actorname></character><character><charactername name="charactername">Kay Adams</charactername><actorname name="actorname">Diane Keaton</actorname></character><character><charactername name="charactername">Tessio</charactername><actorname name="actorname">Abe Vigoda</actorname></character><character><charactername name="charactername">Connie</charactername><actorname name="actorname">Talia Shire</actorname></character><character><charactername name="charactername">Carlo</charactername><actorname name="actorname">Gianni Russo</actorname></character><character><charactername name="charactername">Fredo</charactername><actorname name="actorname">John Cazale</actorname></character><character><charactername name="charactername">Cuneo</charactername><actorname name="actorname">Rudy Bond</actorname></character><character><charactername name="charactername">Johnny Fontane</charactername><actorname name="actorname">Al Martino</actorname></character><character><charactername name="charactername">Mama Corleone</charactername><actorname name="actorname">Morgana King</actorname></character><character><charactername name="charactername">Luca Brasi</charactername><actorname name="actorname">Lenny Montana</actorname></character><character><charactername name="charactername">Paulie Gatto</charactername><actorname name="actorname">John Martino</actorname></character><character><charactername name="charactername">Bonasera</charactername><actorname name="actorname">Salvatore Corsitto</actorname></character><character><charactername name="charactername">Neri</charactername><actorname name="actorname">Richard Bright</actorname></character><character><charactername name="charactername">Moe Greene</charactername><actorname name="actorname">Alex Rocco</actorname></character><character><charactername name="charactername">Bruno Tattaglia</charactername><actorname name="actorname">Tony Giorgio</actorname></character><character><charactername name="charactername">Nazorine</charactername><actorname name="actorname">Vito Scotti</actorname></character><character><charactername name="charactername">Theresa Hagen</charactername><actorname name="actorname">Tere Livrano</actorname></character><character><charactername name="charactername">Philip Tattaglia</charactername><actorname name="actorname">Victor Rendina</actorname></character><character><charactername name="charactername">Lucy Mancini</charactername><actorname name="actorname">Jeannie Linero</actorname></character><character><charactername name="charactername">Sandra Corleone</charactername><actorname name="actorname">Julie Gregg</actorname></character><character><charactername name="charactername">Mrs. Clemenza</charactername><actorname name="actorname">Ardell Sheridan</actorname></character><character><charactername name="charactername">Apollonia - Sicilian Sequence</charactername><actorname name="actorname">Simonetta Stefanelli</actorname></character><character><charactername name="charactername">Fabrizio - Sicilian Sequence</charactername><actorname name="actorname">Angelo Infanti</actorname></character><character><charactername name="charactername">Don Tommasino - Sicilian Sequence</charactername><actorname name="actorname">Corrado Gaipa</actorname></character><character><charactername name="charactername">Calo - Sicilian Sequence</charactername><actorname name="actorname">Franco Citti</actorname></character><character><charactername name="charactername">Vitelli - Sicilian Sequence</charactername><actorname name="actorname">Saro Urz&#236;</actorname></character><character><charactername name="charactername">Policeman 
+  
+  
+  </charactername><actorname name="actorname">Chris Anastasio</actorname></character><character><charactername name="charactername">Luca Brasi's Assassin</charactername><actorname name="actorname">Norm Bacchiocchi</actorname></character><character><charactername name="charactername">Extra in Furniture-Moving Scene 
+  
+  
+  </charactername><actorname name="actorname">Max Brandt</actorname></character><character><charactername name="charactername">Dancer in Wedding Scene 
+  
+  
+  </charactername><actorname name="actorname">Tybee Brascia</actorname></character><character><charactername name="charactername">Piano Player in Montage 
+  
+  
+  </charactername><actorname name="actorname">Carmine Coppola</actorname></character><character><charactername name="charactername">Baptism Observer 
+  
+  
+  </charactername><actorname name="actorname">Gian-Carlo Coppola</actorname></character><character><charactername name="charactername">Extra 
+  
+  
+  </charactername><actorname name="actorname">Italia Coppola</actorname></character><character><charactername name="charactername">Boy on Street Who Attended Funeral 
+  
+  
+  </charactername><actorname name="actorname">Roman Coppola</actorname></character><character><charactername name="charactername">Michael Francis Rizzi</charactername><actorname name="actorname">Sofia Coppola</actorname></character><character><charactername name="charactername">Don Victor Stracci</charactername><actorname name="actorname">Don Costello</actorname></character><character><charactername name="charactername">Crowd 
+  
+  
+  </charactername><actorname name="actorname">Robert Dahdah</actorname></character><character><charactername name="charactername">Tom Hagen's son 
+  
+  
+  </charactername><actorname name="actorname">Richard Fass</actorname></character><character><charactername name="charactername">Cowboy on the Set at Woltz's Studio 
+  
+  
+  </charactername><actorname name="actorname">Gray Frederickson</actorname></character><character><charactername name="charactername">Usher in Bridal Party 
+  
+  
+  </charactername><actorname name="actorname">Ron Gilbert</actorname></character><character><charactername name="charactername">Anthony Vito Corleone</charactername><actorname name="actorname">Anthony Gounaris</actorname></character><character><charactername name="charactername">Sonny's Bodyguard</charactername><actorname name="actorname">Joe Lo Grippo</actorname></character><character><charactername name="charactername">Cop Outside Hospital 
+  
+  
+  </charactername><actorname name="actorname">Sonny Grosso</actorname></character><character><charactername name="charactername">Don Zaluchi</charactername><actorname name="actorname">Louis Guss</actorname></character><character><charactername name="charactername">Toll Both Collector 
+  
+  
+  </charactername><actorname name="actorname">Merril E. Joels</actorname></character><character><charactername name="charactername">Sonny's Killer #1</charactername><actorname name="actorname">Randy Jurgensen</actorname></character><character><charactername name="charactername">Tony - Stablehand 
+  
+  
+  </charactername><actorname name="actorname">Tony King</actorname></character><character><charactername name="charactername">Singer 
+  
+  
+  </charactername><actorname name="actorname">Peter Lemongello</actorname></character><character><charactername name="charactername">Wedding Guest 
+  
+  
+  </charactername><actorname name="actorname">Tony Lip</actorname></character><character><charactername name="charactername" /><actorname name="actorname">Frank Macetta</actorname></character><character><charactername name="charactername">Boy at Wedding 
+  
+  
+  </charactername><actorname name="actorname">Lou Martini Jr.</actorname></character><character><charactername name="charactername">Corleone Family Member 
+  
+  
+  </charactername><actorname name="actorname">Raymond Martino</actorname></character><character><charactername name="charactername">Priest at Baptism 
+  
+  
+  </charactername><actorname name="actorname">Joseph Medaglia</actorname></character><character><charactername name="charactername">Night Nurse</charactername><actorname name="actorname">Carol Morley</actorname></character><character><charactername name="charactername">Lou - Sollozzo's Driver 
+  
+  
+  </charactername><actorname name="actorname">Rick Petrucelli</actorname></character><character><charactername name="charactername">Pallbearer 
+  
+  
+  </charactername><actorname name="actorname">Joe Petrullo</actorname></character><character><charactername name="charactername">Floral Designer 
+  
+  
+  </charactername><actorname name="actorname">Burt Richards</actorname></character><character><charactername name="charactername">Drunk 
+  
+  
+  </charactername><actorname name="actorname">Sal Richards</actorname></character><character><charactername name="charactername">Rocco Lampone</charactername><actorname name="actorname">Tom Rosqui</actorname></character><character><charactername name="charactername">Mobster at Funeral with Barzini</charactername><actorname name="actorname">Nino Ruggeri</actorname></character><character><charactername name="charactername">Street Extra 
+  
+  
+  </charactername><actorname name="actorname">Frank Sivero</actorname></character><character><charactername name="charactername">Extra in Wedding Scene 
+  
+  
+  </charactername><actorname name="actorname">Filomena Spagnuolo</actorname></character><character><charactername name="charactername">Willi Cicci</charactername><actorname name="actorname">Joe Spinell</actorname></character><character><charactername name="charactername">Enzo the Baker</charactername><actorname name="actorname">Gabriele Torrei</actorname></character><character><charactername name="charactername">Wedding Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Nick Vallelonga</actorname></character><character><charactername name="charactername">Wedding Guest 
+  
+  
+  </charactername><actorname name="actorname">Ed Vantura</actorname></character><character><charactername name="charactername">Extra in Hospital Scene 
+  
+  
+  </charactername><actorname name="actorname">Ron Veto</actorname></character><character><charactername name="charactername">Clemenza's Son 
+  
+  
+  </charactername><actorname name="actorname">Matthew Vlahakis</actorname></character><character><charactername name="charactername">Fruit Vendor 
+  
+  
+  </charactername><actorname name="actorname">Conrad Yama</actorname></character></casts><RelatedKeywords><keyword>mafia</keyword><keyword>crime family</keyword><keyword>patriarch</keyword><keyword>rise to power</keyword><keyword>organized crime</keyword><keyword>gambling syndicate</keyword><keyword>part of trilogy</keyword><keyword>mob boss</keyword><keyword>violence</keyword><keyword>gangster</keyword><keyword>crime boss</keyword><keyword>professional hit</keyword><keyword>wedding</keyword><keyword>murder</keyword><keyword>death of title character</keyword><keyword>new york city</keyword><keyword>cop killer</keyword><keyword>gang warfare</keyword><keyword>father son relationship</keyword><keyword>severed horse's head</keyword><keyword>revenge</keyword><keyword>corrupt cop</keyword><keyword>police officer shot</keyword><keyword>husband hits wife</keyword><keyword>manhattan new york city</keyword><keyword>gang war</keyword><keyword>bronx new york city</keyword><keyword>epic</keyword><keyword>casino</keyword><keyword>mercilessness</keyword><keyword>first of series</keyword><keyword>criminal</keyword><keyword>shooting</keyword><keyword>police officer killed</keyword><keyword>brother sister relationship</keyword><keyword>brother brother relationship</keyword><keyword>mob hit</keyword><keyword>betrayal</keyword><keyword>1940s</keyword><keyword>1950s</keyword><keyword>mob summit</keyword><keyword>assassination</keyword><keyword>machine gun</keyword><keyword>hitman</keyword><keyword>based on novel</keyword><keyword>beating</keyword><keyword>horse killed</keyword><keyword>dysfunctional family</keyword><keyword>police officer shot in the neck</keyword><keyword>character depth</keyword><keyword>catholic church</keyword><keyword>wedding reception</keyword><keyword>famous line</keyword><keyword>title spoken by character</keyword><keyword>neo noir</keyword><keyword>first part</keyword><keyword>fbi</keyword><keyword>death of wife</keyword><keyword>tommy gun</keyword><keyword>pistol</keyword><keyword>murder of son</keyword><keyword>symbolism</keyword><keyword>family relationships</keyword><keyword>thompson gun</keyword><keyword>death</keyword><keyword>war veteran</keyword><keyword>mob violence</keyword><keyword>adopted son</keyword><keyword>loss of husband</keyword><keyword>widower</keyword><keyword>honor</keyword><keyword>love at first sight</keyword><keyword>loss of son</keyword><keyword>vengeance</keyword><keyword>traitor</keyword><keyword>loss of wife</keyword><keyword>assassination attempt</keyword><keyword>loss of father</keyword><keyword>corrupt lawyer</keyword><keyword>police corruption</keyword><keyword>sibling rivalry</keyword><keyword>father daughter relationship</keyword><keyword>italy</keyword><keyword>crooked cop</keyword><keyword>protective male</keyword><keyword>church</keyword><keyword>ex soldier</keyword><keyword>exploding car</keyword><keyword>film producer</keyword><keyword>police officer shot in the head</keyword><keyword>pregnant woman beaten</keyword><keyword>tough guy</keyword><keyword>female nudity</keyword><keyword>police</keyword><keyword>catholic</keyword><keyword>baptism</keyword><keyword>police brutality</keyword><keyword>undertaker</keyword><keyword>domestic violence</keyword><keyword>car bomb</keyword><keyword>extramarital affair</keyword><keyword>marital abuse</keyword><keyword>italian american</keyword><keyword>motion picture executive</keyword><keyword>power</keyword><keyword>lawyer</keyword><keyword>cult film</keyword><keyword>no opening credits</keyword><keyword>world war two veteran</keyword><keyword>attorney</keyword><keyword>famous score</keyword><keyword>godfather</keyword><keyword>box office hit</keyword><keyword>blood splatter</keyword><keyword>breasts</keyword><keyword>nickname as title</keyword><keyword>hollywood california</keyword><keyword>hollywood mogul</keyword><keyword>godson</keyword><keyword>godfather godson relationship</keyword><keyword>title same as book</keyword><keyword>post world war two</keyword><keyword>death of son</keyword><keyword>drugs</keyword><keyword>drug dealer</keyword><keyword>dirty cop</keyword><keyword>reference to ingrid bergman</keyword><keyword>foreplay</keyword><keyword>kissing</keyword><keyword>sex scene</keyword><keyword>reference to jerry lewis</keyword><keyword>reference to joe e. lewis</keyword><keyword>reference to gloria dehaven</keyword><keyword>reference to dean martin</keyword><keyword>reference to clark gable</keyword><keyword>shot through the eye</keyword><keyword>revolver</keyword><keyword>bathtub</keyword><keyword>elevator</keyword><keyword>knife</keyword><keyword>near death experience</keyword><keyword>assassin</keyword><keyword>christmas</keyword><keyword>movie theater</keyword><keyword>subtitled scene</keyword><keyword>bar</keyword><keyword>cornfield</keyword><keyword>severed head</keyword><keyword>film set</keyword><keyword>smashing a camera</keyword><keyword>cat</keyword><keyword>broken jaw</keyword><keyword>picture in newspaper</keyword><keyword>character appears in newspaper</keyword><keyword>beaten with a belt</keyword><keyword>double murder</keyword><keyword>man with glasses</keyword><keyword>orange peel</keyword><keyword>two word title</keyword><keyword>character repeating someone else's dialogue</keyword><keyword>radio city music hall manhattan new york city</keyword><keyword>telephone call</keyword><keyword>elderly man</keyword><keyword>broken rule</keyword><keyword>garrotting</keyword><keyword>magnus opus</keyword><keyword>shot repeatedly</keyword><keyword>dartmouth college</keyword><keyword>italian american cop</keyword><keyword>shot in the throat</keyword><keyword>shot to death</keyword><keyword>shot in the chest</keyword><keyword>shot in the back</keyword><keyword>shot in the arm</keyword><keyword>italian food</keyword><keyword>melancholy</keyword><keyword>corleone italy</keyword><keyword>gore</keyword><keyword>blood</keyword><keyword>urination</keyword><keyword>bathroom</keyword><keyword>statue of liberty new york city</keyword><keyword>sicily italy</keyword><keyword>marriage</keyword><keyword>paraplegic</keyword><keyword>massage</keyword><keyword>convicted felon</keyword><keyword>telephone box</keyword><keyword>tollbooth</keyword><keyword>heart attack</keyword><keyword>fugitive</keyword><keyword>strangulation</keyword><keyword>fish</keyword><keyword>stabbed in the hand</keyword><keyword>shot in the eye</keyword><keyword>ethnic slur</keyword><keyword>horse</keyword><keyword>hospital</keyword><keyword>cosa nostra</keyword><keyword>ex convict</keyword><keyword>mansion</keyword><keyword>protection racket</keyword><keyword>village</keyword><keyword>hotel</keyword><keyword>las vegas nevada</keyword><keyword>courtship</keyword><keyword>shot in the forehead</keyword><keyword>cemetery</keyword><keyword>revolving door</keyword><keyword>racial slur</keyword><keyword>restaurant</keyword><keyword>movie studio</keyword><keyword>garrote</keyword><keyword>falling down stairs</keyword><keyword>knife in hand</keyword><keyword>drug dealing</keyword><keyword>open hydrant</keyword><keyword>funeral</keyword><keyword>singer</keyword><keyword>vegetable garden</keyword><keyword>wheelchair</keyword><keyword>invalid</keyword><keyword>paparazzi</keyword><keyword>el train</keyword><keyword>ambush</keyword><keyword>stable</keyword><keyword>nurse</keyword><keyword>los angeles california</keyword><keyword>teacher</keyword></RelatedKeywords></movie><movie><title name="title">The Godfather: Part II</title><director name="director">Francis Ford Coppola </director><movieurl name="movieurl">http://www.imdb.com//title/tt0071562</movieurl><summary name="summary">The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on his crime syndicate stretching from Lake Tahoe, Nevada to pre-revolution 1958 Cuba.</summary><titleyear name="titleyear">1974</titleyear><ratingvalue name="ratingvalue">9.0</ratingvalue><ratingcount name="ratingcount">779,453</ratingcount><genres><genre name="genre">Crime</genre><genre name="genre">Drama</genre></genres><duration name="duration">3h 22min</duration><country name="country">USA</country><casts><character><charactername name="charactername">Michael</charactername><actorname name="actorname">Al Pacino</actorname></character><character><charactername name="charactername">Tom Hagen</charactername><actorname name="actorname">Robert Duvall</actorname></character><character><charactername name="charactername">Kay</charactername><actorname name="actorname">Diane Keaton</actorname></character><character><charactername name="charactername">Vito Corleone</charactername><actorname name="actorname">Robert De Niro</actorname></character><character><charactername name="charactername">Fredo Corleone</charactername><actorname name="actorname">John Cazale</actorname></character><character><charactername name="charactername">Connie Corleone</charactername><actorname name="actorname">Talia Shire</actorname></character><character><charactername name="charactername">Hyman Roth</charactername><actorname name="actorname">Lee Strasberg</actorname></character><character><charactername name="charactername">Frankie Pentangeli</charactername><actorname name="actorname">Michael V. Gazzo</actorname></character><character><charactername name="charactername">Senator Pat Geary</charactername><actorname name="actorname">G.D. Spradlin</actorname></character><character><charactername name="charactername">Al Neri</charactername><actorname name="actorname">Richard Bright</actorname></character><character><charactername name="charactername">Fanucci</charactername><actorname name="actorname">Gastone Moschin</actorname></character><character><charactername name="charactername">Rocco Lampone</charactername><actorname name="actorname">Tom Rosqui</actorname></character><character><charactername name="charactername">Young Clemenza</charactername><actorname name="actorname">Bruno Kirby</actorname></character><character><charactername name="charactername">Genco</charactername><actorname name="actorname">Frank Sivero</actorname></character><character><charactername name="charactername">Young Mama Corleone</charactername><actorname name="actorname">Francesca De Sapio</actorname></character><character><charactername name="charactername">Mama Corleone</charactername><actorname name="actorname">Morgana King</actorname></character><character><charactername name="charactername">Deanna Corleone</charactername><actorname name="actorname">Marianna Hill</actorname></character><character><charactername name="charactername">Signor Roberto</charactername><actorname name="actorname">Leopoldo Trieste</actorname></character><character><charactername name="charactername">Johnny Ola</charactername><actorname name="actorname">Dominic Chianese</actorname></character><character><charactername name="charactername">Michael's Bodyguard</charactername><actorname name="actorname">Amerigo Tot</actorname></character><character><charactername name="charactername">Merle Johnson</charactername><actorname name="actorname">Troy Donahue</actorname></character><character><charactername name="charactername">Young Tessio</charactername><actorname name="actorname">John Aprea</actorname></character><character><charactername name="charactername">Willi Cicci</charactername><actorname name="actorname">Joe Spinell</actorname></character><character><charactername name="charactername">Sonny Corleone</charactername><actorname name="actorname">James Caan</actorname></character><character><charactername name="charactername">Tessio</charactername><actorname name="actorname">Abe Vigoda</actorname></character><character><charactername name="charactername">Theresa Hagen</charactername><actorname name="actorname">Tere Livrano</actorname></character><character><charactername name="charactername">Carlo</charactername><actorname name="actorname">Gianni Russo</actorname></character><character><charactername name="charactername">Vito's Mother</charactername><actorname name="actorname">Maria Carta</actorname></character><character><charactername name="charactername">Vito Andolini as a Boy</charactername><actorname name="actorname">Oreste Baldini</actorname></character><character><charactername name="charactername">Don Francesco</charactername><actorname name="actorname">Giuseppe Sillato</actorname></character><character><charactername name="charactername">Don Tommasino</charactername><actorname name="actorname">Mario Cotone</actorname></character><character><charactername name="charactername">Anthony Corleone</charactername><actorname name="actorname">James Gounaris</actorname></character><character><charactername name="charactername">Mrs. Marcia Roth</charactername><actorname name="actorname">Fay Spain</actorname></character><character><charactername name="charactername">F.B.I. Man #1</charactername><actorname name="actorname">Harry Dean Stanton</actorname></character><character><charactername name="charactername">F.B.I. Man #2</charactername><actorname name="actorname">James Murdock</actorname></character><character><charactername name="charactername">Carmine Rosato</charactername><actorname name="actorname">Carmine Caridi</actorname></character><character><charactername name="charactername">Tony Rosato</charactername><actorname name="actorname">Danny Aiello</actorname></character><character><charactername name="charactername">Policeman</charactername><actorname name="actorname">Carmine Foresta</actorname></character><character><charactername name="charactername">Bartender</charactername><actorname name="actorname">Nick Discenza</actorname></character><character><charactername name="charactername">Father Carmelo</charactername><actorname name="actorname">Joseph Medaglia</actorname></character><character><charactername name="charactername">Senate Committee Chairman</charactername><actorname name="actorname">William Bowers</actorname></character><character><charactername name="charactername">Michael's Buttonman #1 
+  
+  
+  </charactername><actorname name="actorname">Joseph Della Sorte</actorname></character><character><charactername name="charactername">Michael's Buttonman #2</charactername><actorname name="actorname">Carmen Argenziano</actorname></character><character><charactername name="charactername">Michael's Buttonman #3</charactername><actorname name="actorname">Joe Lo Grippo</actorname></character><character><charactername name="charactername">Impressario</charactername><actorname name="actorname">Ezio Flagello</actorname></character><character><charactername name="charactername">Tenor in 'Senza Mamma'</charactername><actorname name="actorname">Livio Giorgi</actorname></character><character><charactername name="charactername">Girl in 'Senza Mamma'</charactername><actorname name="actorname">Kathleen Beller</actorname></character><character><charactername name="charactername">Signora Colombo</charactername><actorname name="actorname">Saveria Mazzola</actorname></character><character><charactername name="charactername">Cuban President</charactername><actorname name="actorname">Tito Alba</actorname></character><character><charactername name="charactername">Cuban Translator</charactername><actorname name="actorname">Johnny Naranjo</actorname></character><character><charactername name="charactername">Pentangeli's Wife</charactername><actorname name="actorname">Elda Maida</actorname></character><character><charactername name="charactername">Pentangeli's Brother</charactername><actorname name="actorname">Salvatore Po</actorname></character><character><charactername name="charactername">Mosca</charactername><actorname name="actorname">Ignazio Pappalardo</actorname></character><character><charactername name="charactername">Strollo</charactername><actorname name="actorname">Andrea Maugeri</actorname></character><character><charactername name="charactername">Signor Abbandando</charactername><actorname name="actorname">Peter LaCorte</actorname></character><character><charactername name="charactername">Street Vendor</charactername><actorname name="actorname">Vincent Coppola</actorname></character><character><charactername name="charactername">Questadt</charactername><actorname name="actorname">Peter Donat</actorname></character><character><charactername name="charactername">Fred Corngold</charactername><actorname name="actorname">Tom Dahlgren</actorname></character><character><charactername name="charactername">Senator Ream</charactername><actorname name="actorname">Paul B. Brown</actorname></character><character><charactername name="charactername">Senator #1</charactername><actorname name="actorname">Phil Feldman</actorname></character><character><charactername name="charactername">Senator #2</charactername><actorname name="actorname">Roger Corman</actorname></character><character><charactername name="charactername">Yolanda</charactername><actorname name="actorname">Ivonne Coll</actorname></character><character><charactername name="charactername">Attendant at Brothel</charactername><actorname name="actorname">Joe De Nicola</actorname></character><character><charactername name="charactername">Ellis Island Doctor</charactername><actorname name="actorname">Edward Van Sickle</actorname></character><character><charactername name="charactername">Ellis Island Nurse</charactername><actorname name="actorname">Gabriella Belloni</actorname></character><character><charactername name="charactername">Custom Official</charactername><actorname name="actorname">Richard Watson</actorname></character><character><charactername name="charactername">Cuban Nurse</charactername><actorname name="actorname">Venancia Grangerard</actorname></character><character><charactername name="charactername">Governess</charactername><actorname name="actorname">Erica Yohn</actorname></character><character><charactername name="charactername">Midwife</charactername><actorname name="actorname">Teresa Tirelli</actorname></character><character><charactername name="charactername">Mama Corleone's Body</charactername><actorname name="actorname">Italia Coppola</actorname></character><character><charactername name="charactername">Sonny Corleone as a Boy</charactername><actorname name="actorname">Roman Coppola</actorname></character><character><charactername name="charactername">Child on Ship 
+  
+  
+  </charactername><actorname name="actorname">Sofia Coppola</actorname></character><character><charactername name="charactername">Cuban Guerilla with Grenade</charactername><actorname name="actorname">Victor Pujols Faneyte</actorname></character><character><charactername name="charactername">Sandra Corleone</charactername><actorname name="actorname">Julie Gregg</actorname></character><character><charactername name="charactername">Vito's Uncle 
+  
+  
+  </charactername><actorname name="actorname">Larry Guardino</actorname></character><character><charactername name="charactername">Senator with mustache 
+  
+  
+  </charactername><actorname name="actorname">Buck Houghton</actorname></character><character><charactername name="charactername">Gianna Hagen 
+  
+  
+  </charactername><actorname name="actorname">Karyn Jansen</actorname></character><character><charactername name="charactername">Waiter #1 
+  
+  
+  </charactername><actorname name="actorname">Ken Koc</actorname></character><character><charactername name="charactername">Passerby in Coat with Cap Pulled Down 
+  
+  
+  </charactername><actorname name="actorname">Sh&#244; Kosugi</actorname></character><character><charactername name="charactername">Photographer in Court</charactername><actorname name="actorname">Gary Kurtz</actorname></character><character><charactername name="charactername">Klingman - Casino Owner 
+  
+  
+  </charactername><actorname name="actorname">Alan Lee</actorname></character><character><charactername name="charactername" /><actorname name="actorname">Laura Lyons</actorname></character><character><charactername name="charactername">Extra 
+  
+  
+  </charactername><actorname name="actorname">Paul Martino Jr.</actorname></character><character><charactername name="charactername">Extra 
+  
+  
+  </charactername><actorname name="actorname">Connie Mason</actorname></character><character><charactername name="charactername">Senator #3 
+  
+  
+  </charactername><actorname name="actorname">Richard Matheson</actorname></character><character><charactername name="charactername">Young Hyman Roth</charactername><actorname name="actorname">John Megna</actorname></character><character><charactername name="charactername">Extra 
+  
+  
+  </charactername><actorname name="actorname">Frank Pesce</actorname></character><character><charactername name="charactername">Street Vendor 
+  
+  
+  </charactername><actorname name="actorname">Jay Rasumny</actorname></character><character><charactername name="charactername">Man Guarding Hyman Roth 
+  
+  
+  </charactername><actorname name="actorname">Hank Robinson</actorname></character><character><charactername name="charactername">Man Who Greets Vito 
+  
+  
+  </charactername><actorname name="actorname">Carmelo Russo</actorname></character><character><charactername name="charactername">Extra 
+  
+  
+  </charactername><actorname name="actorname">Tony Sirico</actorname></character><character><charactername name="charactername">Extra in Little Italy 
+  
+  
+  </charactername><actorname name="actorname">Filomena Spagnuolo</actorname></character><character><charactername name="charactername">Sam Roth</charactername><actorname name="actorname">Julian Voloshin</actorname></character></casts><RelatedKeywords><keyword>corrupt politician</keyword><keyword>revenge</keyword><keyword>1950s</keyword><keyword>lake tahoe nevada</keyword><keyword>melancholy</keyword><keyword>italy</keyword><keyword>mafia</keyword><keyword>bloody body of child</keyword><keyword>child shot in the head</keyword><keyword>child killed</keyword><keyword>child shot</keyword><keyword>man punches woman</keyword><keyword>female nudity</keyword><keyword>blood</keyword><keyword>drug abuse</keyword><keyword>dead woman</keyword><keyword>drunkenness</keyword><keyword>jewish mafia</keyword><keyword>political corruption</keyword><keyword>moral corruption</keyword><keyword>brutality</keyword><keyword>dysfunctional family</keyword><keyword>domestic violence</keyword><keyword>sex show</keyword><keyword>fratricide</keyword><keyword>catholic</keyword><keyword>catholic church</keyword><keyword>suicide</keyword><keyword>bondage</keyword><keyword>cuba</keyword><keyword>new york</keyword><keyword>business</keyword><keyword>mafia don</keyword><keyword>dead boy</keyword><keyword>boy killed</keyword><keyword>sepia tinted scene</keyword><keyword>sepia</keyword><keyword>vintage film cinematography</keyword><keyword>traitor</keyword><keyword>broken promise</keyword><keyword>racial epithet</keyword><keyword>shot on location</keyword><keyword>cross cutting</keyword><keyword>alienation</keyword><keyword>following a dream</keyword><keyword>sequel to oscar winner</keyword><keyword>gang war</keyword><keyword>begging for life</keyword><keyword>nostalgia</keyword><keyword>symbolism</keyword><keyword>repeating history</keyword><keyword>scapegoat</keyword><keyword>villain played by lead actor</keyword><keyword>ellis island new york city</keyword><keyword>wrath</keyword><keyword>suspense</keyword><keyword>shot in the throat</keyword><keyword>shot in the chest</keyword><keyword>self doubt</keyword><keyword>scream</keyword><keyword>pain</keyword><keyword>melodrama</keyword><keyword>magnus opus</keyword><keyword>long take</keyword><keyword>jealousy</keyword><keyword>heart failure</keyword><keyword>frustration</keyword><keyword>fear</keyword><keyword>disappointment</keyword><keyword>death of brother</keyword><keyword>dead prostitute</keyword><keyword>dead body</keyword><keyword>mercilessness</keyword><keyword>flashback</keyword><keyword>family relationships</keyword><keyword>gambling syndicate</keyword><keyword>protection racket</keyword><keyword>surprise</keyword><keyword>stabbed in the chest</keyword><keyword>spying</keyword><keyword>sadness</keyword><keyword>sadism</keyword><keyword>murder attempt</keyword><keyword>knife murder</keyword><keyword>interrogation</keyword><keyword>hurt feelings</keyword><keyword>happiness</keyword><keyword>garrote</keyword><keyword>fondling</keyword><keyword>drinking</keyword><keyword>desire</keyword><keyword>dead man</keyword><keyword>crying</keyword><keyword>cruelty</keyword><keyword>bitterness</keyword><keyword>attraction</keyword><keyword>anger</keyword><keyword>affection</keyword><keyword>abuse</keyword><keyword>corleone italy</keyword><keyword>italian american cop</keyword><keyword>south italy</keyword><keyword>mano nera</keyword><keyword>young version of character</keyword><keyword>tough guy</keyword><keyword>rise to power</keyword><keyword>informer</keyword><keyword>immigrant</keyword><keyword>gangster</keyword><keyword>dysfunctional marriage</keyword><keyword>corruption</keyword><keyword>assassin</keyword><keyword>wheelchair</keyword><keyword>throat slitting</keyword><keyword>shotgun</keyword><keyword>shot through the mouth</keyword><keyword>wrist slitting</keyword><keyword>bribe</keyword><keyword>returning character killed off</keyword><keyword>tragedy</keyword><keyword>sicily italy</keyword><keyword>shootout</keyword><keyword>perjury</keyword><keyword>las vegas nevada</keyword><keyword>brothel</keyword><keyword>bar</keyword><keyword>mob violence</keyword><keyword>burglary</keyword><keyword>new york city</keyword><keyword>blockbuster</keyword><keyword>bribery</keyword><keyword>government hearing</keyword><keyword>strangulation</keyword><keyword>brother sister relationship</keyword><keyword>protective custody</keyword><keyword>fbi</keyword><keyword>brother brother relationship</keyword><keyword>mob hit</keyword><keyword>quarantine</keyword><keyword>prequel</keyword><keyword>escape</keyword><keyword>washington d.c.</keyword><keyword>immigration</keyword><keyword>witness protection</keyword><keyword>casino</keyword><keyword>betrayal</keyword><keyword>murder</keyword><keyword>switchblade</keyword><keyword>eviction</keyword><keyword>ethnic slur</keyword><keyword>multiple time frames</keyword><keyword>cosa nostra</keyword><keyword>blackmail</keyword><keyword>1940s</keyword><keyword>senator</keyword><keyword>orphan</keyword><keyword>crime boss</keyword><keyword>honor</keyword><keyword>child murder</keyword><keyword>village</keyword><keyword>prostitution</keyword><keyword>wake</keyword><keyword>hotel</keyword><keyword>1900s</keyword><keyword>suicide bomber</keyword><keyword>rooftop</keyword><keyword>assassination attempt</keyword><keyword>loss of mother</keyword><keyword>sequel</keyword><keyword>name change</keyword><keyword>miami florida</keyword><keyword>assassination</keyword><keyword>havana cuba</keyword><keyword>italian american</keyword><keyword>sick child</keyword><keyword>castro regime</keyword><keyword>revolution</keyword><keyword>extortion</keyword><keyword>cuban revolution</keyword><keyword>senate crime committee</keyword><keyword>power</keyword><keyword>famous score</keyword><keyword>murder at funeral</keyword><keyword>abortion</keyword><keyword>marital separation</keyword><keyword>crime epic</keyword><keyword>hitman</keyword><keyword>batista regime</keyword><keyword>1960s</keyword><keyword>festival</keyword><keyword>organized crime</keyword><keyword>stabbing</keyword><keyword>fidel castro</keyword><keyword>sibling rivalry</keyword><keyword>violence</keyword><keyword>divorcee</keyword><keyword>epic</keyword><keyword>black hand</keyword><keyword>based on novel</keyword><keyword>1910s</keyword><keyword>1920s</keyword><keyword>man with glasses</keyword><keyword>jewish american</keyword><keyword>reference to adolf hitler</keyword><keyword>rug</keyword><keyword>rolling up rug</keyword><keyword>evil man</keyword><keyword>christmas</keyword><keyword>statue of liberty new york city</keyword><keyword>numbered sequel</keyword><keyword>night</keyword><keyword>home</keyword><keyword>garden</keyword><keyword>elderly man</keyword><keyword>doubt</keyword><keyword>character depth</keyword><keyword>bedroom</keyword><keyword>apartment</keyword><keyword>reference to mickey mouse</keyword><keyword>roman numeral in title</keyword><keyword>telephone call</keyword><keyword>sequel to best picture winner</keyword><keyword>poverty</keyword><keyword>room</keyword><keyword>old man</keyword><keyword>memory</keyword><keyword>love</keyword><keyword>living room</keyword><keyword>kitchen</keyword><keyword>godfather</keyword><keyword>friend</keyword><keyword>friendship</keyword><keyword>dancing</keyword><keyword>brunette</keyword><keyword>best friend</keyword><keyword>pasta</keyword><keyword>part of trilogy</keyword><keyword>no opening credits</keyword><keyword>bathtub</keyword><keyword>second part</keyword><keyword>theater</keyword><keyword>landlord</keyword><keyword>grocery store</keyword><keyword>cafe</keyword><keyword>boys' choir</keyword><keyword>backstage</keyword><keyword>party</keyword><keyword>military enlistment</keyword><keyword>pool</keyword><keyword>nonlinear timeline</keyword><keyword>new year's eve</keyword><keyword>first communion</keyword><keyword>steamship</keyword><keyword>boat</keyword><keyword>motorboat</keyword><keyword>hospital</keyword><keyword>world war two veteran</keyword><keyword>railway station</keyword><keyword>airport</keyword><keyword>fishing</keyword><keyword>birthday party</keyword><keyword>number in title</keyword></RelatedKeywords></movie><movie><title name="title">The Dark Knight</title><director name="director">Christopher Nolan </director><movieurl name="movieurl">http://www.imdb.com//title/tt0468569</movieurl><summary name="summary">When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.</summary><titleyear name="titleyear">2008</titleyear><ratingvalue name="ratingvalue">9.0</ratingvalue><ratingcount name="ratingcount">1,652,458</ratingcount><genres><genre name="genre">Action</genre><genre name="genre">Adventure</genre><genre name="genre">Crime</genre></genres><duration name="duration">2h 32min</duration><country name="country">USA</country><casts><character><charactername name="charactername">Bruce Wayne</charactername><actorname name="actorname">Christian Bale</actorname></character><character><charactername name="charactername">Joker</charactername><actorname name="actorname">Heath Ledger</actorname></character><character><charactername name="charactername">Harvey Dent</charactername><actorname name="actorname">Aaron Eckhart</actorname></character><character><charactername name="charactername">Alfred</charactername><actorname name="actorname">Michael Caine</actorname></character><character><charactername name="charactername">Rachel</charactername><actorname name="actorname">Maggie Gyllenhaal</actorname></character><character><charactername name="charactername">Gordon</charactername><actorname name="actorname">Gary Oldman</actorname></character><character><charactername name="charactername">Lucius Fox</charactername><actorname name="actorname">Morgan Freeman</actorname></character><character><charactername name="charactername">Ramirez</charactername><actorname name="actorname">Monique Gabriela Curnen</actorname></character><character><charactername name="charactername">Wuertz</charactername><actorname name="actorname">Ron Dean</actorname></character><character><charactername name="charactername">Scarecrow</charactername><actorname name="actorname">Cillian Murphy</actorname></character><character><charactername name="charactername">Lau</charactername><actorname name="actorname">Chin Han</actorname></character><character><charactername name="charactername">Mayor</charactername><actorname name="actorname">Nestor Carbonell</actorname></character><character><charactername name="charactername">Maroni</charactername><actorname name="actorname">Eric Roberts</actorname></character><character><charactername name="charactername">Chechen</charactername><actorname name="actorname">Ritchie Coster</actorname></character><character><charactername name="charactername">Mike Engel</charactername><actorname name="actorname">Anthony Michael Hall</actorname></character><character><charactername name="charactername">Stephens</charactername><actorname name="actorname">Keith Szarabajka</actorname></character><character><charactername name="charactername">Loeb</charactername><actorname name="actorname">Colin McFarlane</actorname></character><character><charactername name="charactername">Reese</charactername><actorname name="actorname">Joshua Harto</actorname></character><character><charactername name="charactername">Barbara Gordon</charactername><actorname name="actorname">Melinda McGraw</actorname></character><character><charactername name="charactername">James Gordon, Jr.</charactername><actorname name="actorname">Nathan Gamble</actorname></character><character><charactername name="charactername">Rossi</charactername><actorname name="actorname">Michael Vieau</actorname></character><character><charactername name="charactername">Dopey</charactername><actorname name="actorname">Michael Stoyanov</actorname></character><character><charactername name="charactername">Happy</charactername><actorname name="actorname">William Smillie</actorname></character><character><charactername name="charactername">Grumpy</charactername><actorname name="actorname">Danny Goldring</actorname></character><character><charactername name="charactername">Gambol</charactername><actorname name="actorname">Michael Jai White</actorname></character><character><charactername name="charactername">Chuckles</charactername><actorname name="actorname">Matthew O'Neill</actorname></character><character><charactername name="charactername">Bank Manager</charactername><actorname name="actorname">William Fichtner</actorname></character><character><charactername name="charactername">Drug Dealer</charactername><actorname name="actorname">Olumiji Olawumi</actorname></character><character><charactername name="charactername">Drug Buyer</charactername><actorname name="actorname">Greg Beam</actorname></character><character><charactername name="charactername">Junkie</charactername><actorname name="actorname">Erik Hellman</actorname></character><character><charactername name="charactername">Natascha</charactername><actorname name="actorname">Beatrice Rosen</actorname></character><character><charactername name="charactername">Crime Boss</charactername><actorname name="actorname">Vincenzo Nicoli</actorname></character><character><charactername name="charactername">LSI VP</charactername><actorname name="actorname">Edison Chen</actorname></character><character><charactername name="charactername">Judge Surrillo</charactername><actorname name="actorname">Nydia Rodriguez Terracina</actorname></character><character><charactername name="charactername">Brian</charactername><actorname name="actorname">Andy Luther</actorname></character><character><charactername name="charactername">Man No. 1</charactername><actorname name="actorname">James Farruggio</actorname></character><character><charactername name="charactername">Man No. 2</charactername><actorname name="actorname">Tom McElroy</actorname></character><character><charactername name="charactername">Assistant DA</charactername><actorname name="actorname">Will Zahrn</actorname></character><character><charactername name="charactername">Thug at Party</charactername><actorname name="actorname">James Fierro</actorname></character><character><charactername name="charactername">Gentleman at Party</charactername><actorname name="actorname">Patrick Leahy</actorname></character><character><charactername name="charactername">Male Guest</charactername><actorname name="actorname">Sam Derence</actorname></character><character><charactername name="charactername">Female Guest</charactername><actorname name="actorname">Jennifer Knox</actorname></character><character><charactername name="charactername">Judge Freel</charactername><actorname name="actorname">Patrick Clear</actorname></character><character><charactername name="charactername">Maroni's Mistress</charactername><actorname name="actorname">Sarah Jayne Dunn</actorname></character><character><charactername name="charactername">Gambol's Bodyguard</charactername><actorname name="actorname">Charles Venn</actorname></character><character><charactername name="charactername">Gambol's Bodyguard</charactername><actorname name="actorname">Winston Ellis</actorname></character><character><charactername name="charactername">Joker's Thug</charactername><actorname name="actorname">David Dastmalchian</actorname></character><character><charactername name="charactername">Reporter</charactername><actorname name="actorname">Sophia Hinshelwood</actorname></character><character><charactername name="charactername">Heckler</charactername><actorname name="actorname">Keith Kupferer</actorname></character><character><charactername name="charactername">Cop Heckler</charactername><actorname name="actorname">Joseph Luis Caballero</actorname></character><character><charactername name="charactername">Acting Commissioner</charactername><actorname name="actorname">Richard Dillane</actorname></character><character><charactername name="charactername">Officer at Intersection</charactername><actorname name="actorname">Daryl Satcher</actorname></character><character><charactername name="charactername">Convoy Leader</charactername><actorname name="actorname">Chris Petschler</actorname></character><character><charactername name="charactername">Fat Thug</charactername><actorname name="actorname">Aidan Feore</actorname></character><character><charactername name="charactername">Murphy</charactername><actorname name="actorname">Philip Bulcock</actorname></character><character><charactername name="charactername">Cop with Fat Thug</charactername><actorname name="actorname">Paul Birchard</actorname></character><character><charactername name="charactername">Medic</charactername><actorname name="actorname">Walter Lewis</actorname></character><character><charactername name="charactername">Cop at 250 52nd St.</charactername><actorname name="actorname">Vincent Riotta</actorname></character><character><charactername name="charactername">Nurse</charactername><actorname name="actorname">Nancy Crane</actorname></character><character><charactername name="charactername">Polk</charactername><actorname name="actorname">K. Todd Freeman</actorname></character><character><charactername name="charactername">Berg</charactername><actorname name="actorname">Matt Shallenberger</actorname></character><character><charactername name="charactername">Cop at Hospital</charactername><actorname name="actorname">Michael Andrew Gorman</actorname></character><character><charactername name="charactername">Bartender</charactername><actorname name="actorname">Lanny Lutz</actorname></character><character><charactername name="charactername">Civilian</charactername><actorname name="actorname">Peter DeFaria</actorname></character><character><charactername name="charactername">First Mate</charactername><actorname name="actorname">Matt Rippy</actorname></character><character><charactername name="charactername">Prison Ferry Pilot</charactername><actorname name="actorname">Andrew Bicknell</actorname></character><character><charactername name="charactername">Guard Commander</charactername><actorname name="actorname">Ariyon Bakare</actorname></character><character><charactername name="charactername">Businessman</charactername><actorname name="actorname">Doug Ballard</actorname></character><character><charactername name="charactername">Mother</charactername><actorname name="actorname">Helene Wilson</actorname></character><character><charactername name="charactername">Passenger</charactername><actorname name="actorname">Tommy Campbell</actorname></character><character><charactername name="charactername">Passenger</charactername><actorname name="actorname">Craig Heaney</actorname></character><character><charactername name="charactername">Passenger</charactername><actorname name="actorname">Lorna Gayle</actorname></character><character><charactername name="charactername">Passenger</charactername><actorname name="actorname">Lisa McAllister</actorname></character><character><charactername name="charactername">Passenger</charactername><actorname name="actorname">Peter Brooke</actorname></character><character><charactername name="charactername">SWAT Sniper</charactername><actorname name="actorname">Joshua Rollins</actorname></character><character><charactername name="charactername">SWAT Leader</charactername><actorname name="actorname">Dale Rivera</actorname></character><character><charactername name="charactername">Prisoner on Ferry</charactername><actorname name="actorname">Matthew Leitch</actorname></character><character><charactername name="charactername">Tattooed Prisoner</charactername><actorname name="actorname">Tommy 'Tiny' Lister</actorname></character><character><charactername name="charactername">Reporter #3</charactername><actorname name="actorname">Thomas Gaitsch</actorname></character><character><charactername name="charactername">Evans</charactername><actorname name="actorname">William Armstrong</actorname></character><character><charactername name="charactername">Honor Guard Man</charactername><actorname name="actorname">Adam Kalesperis</actorname></character><character><charactername name="charactername">Uniform Cop</charactername><actorname name="actorname">Tristan Tait</actorname></character><character><charactername name="charactername">Bounty Hunter</charactername><actorname name="actorname">Bronson Webb</actorname></character><character><charactername name="charactername">Bounty Hunter</charactername><actorname name="actorname">David Ajala</actorname></character><character><charactername name="charactername">Fox's Secretary 
+  
+  
+  </charactername><actorname name="actorname">Gertrude Mosley</actorname></character><character><charactername name="charactername">Passenger Ferry Pilot</charactername><actorname name="actorname">Jonathan Ryland</actorname></character><character><charactername name="charactername">Guardsman</charactername><actorname name="actorname">James Scales</actorname></character><character><charactername name="charactername">Warden</charactername><actorname name="actorname">Nigel Carrington</actorname></character><character><charactername name="charactername">Corrections Officer</charactername><actorname name="actorname">Ian Pirie</actorname></character><character><charactername name="charactername">Prisoner</charactername><actorname name="actorname">Lateef Lovejoy</actorname></character><character><charactername name="charactername">Prisoner</charactername><actorname name="actorname">Grahame Edwards</actorname></character><character><charactername name="charactername">Prisoner</charactername><actorname name="actorname">Roger Monk</actorname></character><character><charactername name="charactername">Prisoner</charactername><actorname name="actorname">Ronan Summers</actorname></character><character><charactername name="charactername">Hong Kong Detective</charactername><actorname name="actorname">Wai Wong</actorname></character><character><charactername name="charactername">Honor Guard Leader</charactername><actorname name="actorname">Michael Corey Foster</actorname></character><character><charactername name="charactername">Gordon's Daughter</charactername><actorname name="actorname">Hannah Gunn</actorname></character><character><charactername name="charactername">Armored Car SWAT</charactername><actorname name="actorname">Brandon Lambdin</actorname></character><character><charactername name="charactername">National Guard /  
+            Police Officer 
+  
+  
+  </charactername><actorname name="actorname">Jeff Albertson</actorname></character><character><charactername name="charactername">Emergency Medical Technician 
+  
+  
+  </charactername><actorname name="actorname">Tracy L. Aldaz</actorname></character><character><charactername name="charactername">Civilian 
+  
+  
+  </charactername><actorname name="actorname">Matthew W. Allen</actorname></character><character><charactername name="charactername">Ferry Prisoner 
+  
+  
+  </charactername><actorname name="actorname">Stephen Armourae</actorname></character><character><charactername name="charactername">Refugee 
+  
+  
+  </charactername><actorname name="actorname">Alisa Azpeitia</actorname></character><character><charactername name="charactername">Board Room Member 
+  
+  
+  </charactername><actorname name="actorname">Mike Bach</actorname></character><character><charactername name="charactername">Loading Dock Supervisor 
+  
+  
+  </charactername><actorname name="actorname">Wayne Baker</actorname></character><character><charactername name="charactername">Joker's Henchman</charactername><actorname name="actorname">Martin Ballantyne</actorname></character><character><charactername name="charactername">Maroni's D.A. 
+  
+  
+  </charactername><actorname name="actorname">Tommy Bartlett</actorname></character><character><charactername name="charactername">Inmate 
+  
+  
+  </charactername><actorname name="actorname">Blayne Bennett</actorname></character><character><charactername name="charactername">Police Officer 
+  
+  
+  </charactername><actorname name="actorname">Craig Braginsky</actorname></character><character><charactername name="charactername">Waiter 
+  
+  
+  </charactername><actorname name="actorname">Jon Lee Brody</actorname></character><character><charactername name="charactername">Gotham City Prision Guard 
+  
+  
+  </charactername><actorname name="actorname">Douglas Bunn</actorname></character><character><charactername name="charactername">Bank Patron 
+  
+  
+  </charactername><actorname name="actorname">Debbi Burns</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Luke Burnyeat</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Maritza Cabrera</actorname></character><character><charactername name="charactername">Party Guest with Glass 
+  
+  
+  </charactername><actorname name="actorname">Shirin Caiola</actorname></character><character><charactername name="charactername">Bodyguard 
+  
+  
+  </charactername><actorname name="actorname">Fabrice Calmels</actorname></character><character><charactername name="charactername">Bar Patron 
+  
+  
+  </charactername><actorname name="actorname">Josh Chapman</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Laura Chernicky</actorname></character><character><charactername name="charactername">Lau Henchman 
+  
+  
+  </charactername><actorname name="actorname">Matt Cho</actorname></character><character><charactername name="charactername">Lau Henchman 
+  
+  
+  </charactername><actorname name="actorname">Henry Milton Chu</actorname></character><character><charactername name="charactername">Paramedic 
+  
+  
+  </charactername><actorname name="actorname">Kelli Clevenger</actorname></character><character><charactername name="charactername">Rasta Gang Leader 
+  
+  
+  </charactername><actorname name="actorname">David Cosey</actorname></character><character><charactername name="charactername">Ferry Prisoner 
+  
+  
+  </charactername><actorname name="actorname">Bruce Allen Dawson</actorname></character><character><charactername name="charactername">Bruce's Supermodel Girlfriend #2 
+  
+  
+  </charactername><actorname name="actorname">Danielle Day</actorname></character><character><charactername name="charactername">Chechen Gangster 
+  
+  
+  </charactername><actorname name="actorname">Richard Divizio</actorname></character><character><charactername name="charactername">Press Conference Heckler 
+  
+  
+  </charactername><actorname name="actorname">Tony Domino</actorname></character><character><charactername name="charactername">Hospital Patient 
+  
+  
+  </charactername><actorname name="actorname">Jessica Doyle</actorname></character><character><charactername name="charactername">Civilian 
+  
+  
+  </charactername><actorname name="actorname">Laine Edwards</actorname></character><character><charactername name="charactername">Boat Passenger 
+  
+  
+  </charactername><actorname name="actorname">R. Michael Egan</actorname></character><character><charactername name="charactername">Extra 
+  
+  
+  </charactername><actorname name="actorname">David William James Elliott</actorname></character><character><charactername name="charactername">Underwear Honor Guard 
+  
+  
+  </charactername><actorname name="actorname">Dan Evashevski</actorname></character><character><charactername name="charactername">Pedestrian 
+  
+  
+  </charactername><actorname name="actorname">Gene Fojtik</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Reese Foster</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Jason Frederick</actorname></character><character><charactername name="charactername">Partisan 
+  
+  
+  </charactername><actorname name="actorname">Jason Fuller</actorname></character><character><charactername name="charactername">Police Officer 
+  
+  
+  </charactername><actorname name="actorname">Darren Elliot Fulsher</actorname></character><character><charactername name="charactername">Pedestrian 
+  
+  
+  </charactername><actorname name="actorname">David Fultz</actorname></character><character><charactername name="charactername">EMT 
+  
+  
+  </charactername><actorname name="actorname">Scott Ganyo</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Marisol Giraud</actorname></character><character><charactername name="charactername">Hostage 
+  
+  
+  </charactername><actorname name="actorname">Tim Glanfield</actorname></character><character><charactername name="charactername">SWAT Officer 
+  
+  
+  </charactername><actorname name="actorname">Dan Gossen</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Sharlene Grover</actorname></character><character><charactername name="charactername">Ferry Passenger 
+  
+  
+  </charactername><actorname name="actorname">Natalie Hallam</actorname></character><character><charactername name="charactername">EMT 
+  
+  
+  </charactername><actorname name="actorname">Thomas Hartmann</actorname></character><character><charactername name="charactername">Prisoner 
+  
+  
+  </charactername><actorname name="actorname">Alexander Hathaway</actorname></character><character><charactername name="charactername">Police Officer 
+  
+  
+  </charactername><actorname name="actorname">Jordon Hodges</actorname></character><character><charactername name="charactername">Bank Vault Manager 
+  
+  
+  </charactername><actorname name="actorname">John Hoving</actorname></character><character><charactername name="charactername">Maroni Gangster 
+  
+  
+  </charactername><actorname name="actorname">Bill Ibrahim</actorname></character><character><charactername name="charactername">Mob Boss 
+  
+  
+  </charactername><actorname name="actorname">Gerard Jamroz</actorname></character><character><charactername name="charactername">Prisoner 
+  
+  
+  </charactername><actorname name="actorname">Erron Jay</actorname></character><character><charactername name="charactername">Immigrant Ferry Passenger 
+  
+  
+  </charactername><actorname name="actorname">Daniel Jefferson</actorname></character><character><charactername name="charactername">National Guard 
+  
+  
+  </charactername><actorname name="actorname">Ramses Jimenez</actorname></character><character><charactername name="charactername">High-Ranking Officer 
+  
+  
+  </charactername><actorname name="actorname">Will Jones</actorname></character><character><charactername name="charactername">Police Officer 
+  
+  
+  </charactername><actorname name="actorname">Bob Kaliebe</actorname></character><character><charactername name="charactername">Shotgun SWAT 
+  
+  
+  </charactername><actorname name="actorname">Nicky Katt</actorname></character><character><charactername name="charactername">Businessman /  
+            Crime Scene Witness 
+  
+  
+  </charactername><actorname name="actorname">Mark Keiser</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Charlie Kierscht</actorname></character><character><charactername name="charactername">Parade Police Officer 
+  
+  
+  </charactername><actorname name="actorname">Thomas Kosik</actorname></character><character><charactername name="charactername">Maroni's Henchman 
+  
+  
+  </charactername><actorname name="actorname">Don Kress</actorname></character><character><charactername name="charactername">Police Officer 
+  
+  
+  </charactername><actorname name="actorname">Ryan Kross</actorname></character><character><charactername name="charactername">Assistant D.A. 
+  
+  
+  </charactername><actorname name="actorname">Tim Krueger</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Michael Kuster</actorname></character><character><charactername name="charactername">Police Sgt. Spellman /  
+            Gotham Bomb Squad 
+  
+  
+  </charactername><actorname name="actorname">Dan Latham</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Joseph Lazicki</actorname></character><character><charactername name="charactername">Detective 
+  
+  
+  </charactername><actorname name="actorname">David Lesley</actorname></character><character><charactername name="charactername">Civilian 
+  
+  
+  </charactername><actorname name="actorname">Emily Lineham</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Ivan Lovegren</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Deborah Lynn</actorname></character><character><charactername name="charactername">Pedestrian 
+  
+  
+  </charactername><actorname name="actorname">Noelle Lynn</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Jonathan Macchi</actorname></character><character><charactername name="charactername">Police Officer 
+  
+  
+  </charactername><actorname name="actorname">Al Marchesi</actorname></character><character><charactername name="charactername">Firefighter /  
+            Citizen 
+  
+  
+  </charactername><actorname name="actorname">J.R. Martino</actorname></character><character><charactername name="charactername">Bailiff /  
+            Parade Policeman 
+  
+  
+  </charactername><actorname name="actorname">Joseph Mazurk</actorname></character><character><charactername name="charactername">Helicopter SWAT Sniper 
+  
+  
+  </charactername><actorname name="actorname">Tom McComas</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Krista McEnany</actorname></character><character><charactername name="charactername">Banker 
+  
+  
+  </charactername><actorname name="actorname">Ryan McGonagle</actorname></character><character><charactername name="charactername">Ferry Passenger 
+  
+  
+  </charactername><actorname name="actorname">James Mellor</actorname></character><character><charactername name="charactername">Police Officer 
+  
+  
+  </charactername><actorname name="actorname">Joseph Nelson</actorname></character><character><charactername name="charactername">Officer 
+  
+  
+  </charactername><actorname name="actorname">Joseph Oliveira</actorname></character><character><charactername name="charactername">Gang Member 
+  
+  
+  </charactername><actorname name="actorname">Sal Ozbay</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Libby Pedersen</actorname></character><character><charactername name="charactername">Shotgun SWAT 
+  
+  
+  </charactername><actorname name="actorname">Ernest Pierce</actorname></character><character><charactername name="charactername">Evacuating Hospital Patient 
+  
+  
+  </charactername><actorname name="actorname">Rory Plante</actorname></character><character><charactername name="charactername">Businessman 
+  
+  
+  </charactername><actorname name="actorname">Charles Query</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Marc Radz</actorname></character><character><charactername name="charactername">Joker's Thug #2</charactername><actorname name="actorname">Buster Reeves</actorname></character><character><charactername name="charactername">Ballerina 
+  
+  
+  </charactername><actorname name="actorname">Sara Ritz</actorname></character><character><charactername name="charactername">Prisoner 
+  
+  
+  </charactername><actorname name="actorname">Peter Rnic</actorname></character><character><charactername name="charactername">Man on Boulevard 
+  
+  
+  </charactername><actorname name="actorname">Gary Ryder</actorname></character><character><charactername name="charactername">Attorney 
+  
+  
+  </charactername><actorname name="actorname">Kelly Saindon</actorname></character><character><charactername name="charactername">Extra 
+  
+  
+  </charactername><actorname name="actorname">Elisa Schleef</actorname></character><character><charactername name="charactername">Assistant D.A. 
+  
+  
+  </charactername><actorname name="actorname">Greg Schweiner</actorname></character><character><charactername name="charactername">Dent's Secretary 
+  
+  
+  </charactername><actorname name="actorname">Jan Seybold</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Amit Shah</actorname></character><character><charactername name="charactername">Middle Eastern Bank Hostage</charactername><actorname name="actorname">Vivek Shah</actorname></character><character><charactername name="charactername">Angry Hospital Relative 
+  
+  
+  </charactername><actorname name="actorname">Michelle Shields</actorname></character><character><charactername name="charactername">Detective 
+  
+  
+  </charactername><actorname name="actorname">Tina Simmons</actorname></character><character><charactername name="charactername">Evacuee 
+  
+  
+  </charactername><actorname name="actorname">Sofiya Smirnova</actorname></character><character><charactername name="charactername">Detective 
+  
+  
+  </charactername><actorname name="actorname">John Snowden</actorname></character><character><charactername name="charactername">Secretary 
+  
+  
+  </charactername><actorname name="actorname">Lorea Solabarrieta</actorname></character><character><charactername name="charactername">Mob Lawyer 
+  
+  
+  </charactername><actorname name="actorname">Dwight Sora</actorname></character><character><charactername name="charactername">High-Ranking Police Official 
+  
+  
+  </charactername><actorname name="actorname">Bruce Spielbauer</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">January Stern</actorname></character><character><charactername name="charactername">Extra 
+  
+  
+  </charactername><actorname name="actorname">Robert Patrick Stern</actorname></character><character><charactername name="charactername">Businessman 
+  
+  
+  </charactername><actorname name="actorname">Jordan Stone</actorname></character><character><charactername name="charactername">Dept. of Corrections Resident 
+  
+  
+  </charactername><actorname name="actorname">Robert Stone</actorname></character><character><charactername name="charactername">Detective 
+  
+  
+  </charactername><actorname name="actorname">Richard Strobel</actorname></character><character><charactername name="charactername">Joker's Henchman</charactername><actorname name="actorname">Jim Templar</actorname></character><character><charactername name="charactername">Courtroom Spectator 
+  
+  
+  </charactername><actorname name="actorname">Chris D. Thomas</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">John Thurner</actorname></character><character><charactername name="charactername">Police Officer 
+  
+  
+  </charactername><actorname name="actorname">Tom Townsend</actorname></character><character><charactername name="charactername">Lau's Henchman with TV 
+  
+  
+  </charactername><actorname name="actorname">Chuen Tsou</actorname></character><character><charactername name="charactername">Chechen's Bodyguard 
+  
+  
+  </charactername><actorname name="actorname">John Turk</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">James Warfield</actorname></character><character><charactername name="charactername">Detective 
+  
+  
+  </charactername><actorname name="actorname">John Warman</actorname></character><character><charactername name="charactername">Party Goer 
+  
+  
+  </charactername><actorname name="actorname">Joel Wasserman</actorname></character><character><charactername name="charactername">Police Officer 
+  
+  
+  </charactername><actorname name="actorname">Mike Whyte</actorname></character><character><charactername name="charactername">Party Guest 
+  
+  
+  </charactername><actorname name="actorname">Erik A. Williams</actorname></character><character><charactername name="charactername">Major Crime Unit Detective 
+  
+  
+  </charactername><actorname name="actorname">Chris Wilson</actorname></character><character><charactername name="charactername">Businesswoman 
+  
+  
+  </charactername><actorname name="actorname">Lisa Wolf</actorname></character><character><charactername name="charactername">Prisoner on Boat 
+  
+  
+  </charactername><actorname name="actorname">Essa Zahir</actorname></character><character><charactername name="charactername">Party Staff 
+  
+  
+  </charactername><actorname name="actorname">Kevin Zaideman</actorname></character></casts><RelatedKeywords><keyword>dc comics</keyword><keyword>based on comic book</keyword><keyword>star died before release</keyword><keyword>organized crime</keyword><keyword>psychopath</keyword><keyword>costumed hero</keyword><keyword>evil clown</keyword><keyword>hand to hand combat</keyword><keyword>urban setting</keyword><keyword>police commissioner</keyword><keyword>clown</keyword><keyword>scarred face</keyword><keyword>tragic hero</keyword><keyword>masked vigilante</keyword><keyword>green hair</keyword><keyword>deformed face</keyword><keyword>police brutality</keyword><keyword>mob boss</keyword><keyword>death threat</keyword><keyword>rpg</keyword><keyword>super villain</keyword><keyword>false confession</keyword><keyword>press conference</keyword><keyword>jail cell</keyword><keyword>evil man</keyword><keyword>foreshadow</keyword><keyword>glasgow smile</keyword><keyword>evil smile</keyword><keyword>villain</keyword><keyword>psychological manipulation</keyword><keyword>darkness</keyword><keyword>clown mask</keyword><keyword>newscaster</keyword><keyword>evil</keyword><keyword>clown face</keyword><keyword>moral dilemma</keyword><keyword>dual identity</keyword><keyword>double life</keyword><keyword>death of girlfriend</keyword><keyword>cape</keyword><keyword>bullet proof automobile</keyword><keyword>billionaire</keyword><keyword>same director as prequel</keyword><keyword>one man army</keyword><keyword>insanity</keyword><keyword>second part</keyword><keyword>superhero</keyword><keyword>sequel</keyword><keyword>death of friend</keyword><keyword>title spoken by character</keyword><keyword>appeared on tv news</keyword><keyword>returning character killed off</keyword><keyword>reference to elvis presley</keyword><keyword>reference to abraham lincoln</keyword><keyword>dark past</keyword><keyword>returning character with different actor</keyword><keyword>critically acclaimed</keyword><keyword>anti hero</keyword><keyword>vigilantism</keyword><keyword>dark hero</keyword><keyword>neo noir</keyword><keyword>anti villain</keyword><keyword>batman</keyword><keyword>joker</keyword><keyword>the joker</keyword><keyword>gotham</keyword><keyword>criminal</keyword><keyword>vigilante</keyword><keyword>hero</keyword><keyword>chaos</keyword><keyword>criminal mastermind</keyword><keyword>fight</keyword><keyword>bruce wayne</keyword><keyword>money</keyword><keyword>bank</keyword><keyword>accountant</keyword><keyword>robbery</keyword><keyword>mayor</keyword><keyword>police</keyword><keyword>judge</keyword><keyword>hong kong</keyword><keyword>panic</keyword><keyword>love triangle</keyword><keyword>district attorney</keyword><keyword>bank robbery</keyword><keyword>tossing a coin</keyword><keyword>flipping a coin</keyword><keyword>skyscraper</keyword><keyword>mobster</keyword><keyword>human monster</keyword><keyword>kicking in a door</keyword><keyword>playboy</keyword><keyword>tension</keyword><keyword>knocked out with a gun butt</keyword><keyword>desperation</keyword><keyword>thief</keyword><keyword>burning letter</keyword><keyword>watching television</keyword><keyword>facial disfigurement</keyword><keyword>ex soldier</keyword><keyword>newspaper clipping</keyword><keyword>parachute</keyword><keyword>jumping through a window</keyword><keyword>sawed off shotgun</keyword><keyword>van</keyword><keyword>rifle</keyword><keyword>escaped mental patient</keyword><keyword>escape attempt</keyword><keyword>surveillance</keyword><keyword>scientist</keyword><keyword>bare chested male</keyword><keyword>punched in the chest</keyword><keyword>cockney accent</keyword><keyword>doctor</keyword><keyword>nurse</keyword><keyword>hit by a car</keyword><keyword>drug supplier</keyword><keyword>ak 47</keyword><keyword>flashlight</keyword><keyword>bagpipes</keyword><keyword>horse</keyword><keyword>cigar smoking</keyword><keyword>ship captain</keyword><keyword>decoy</keyword><keyword>white gloves</keyword><keyword>open ended</keyword><keyword>councilor</keyword><keyword>tragic ending</keyword><keyword>cover up</keyword><keyword>parade</keyword><keyword>telescope</keyword><keyword>metal detector</keyword><keyword>gangsta</keyword><keyword>social decay</keyword><keyword>urban decay</keyword><keyword>montage</keyword><keyword>corrupt police</keyword><keyword>maniac</keyword><keyword>anarchist</keyword><keyword>phone bomb</keyword><keyword>police procedural</keyword><keyword>die hard scenario</keyword><keyword>tattoo</keyword><keyword>paranoia</keyword><keyword>presumed dead</keyword><keyword>prison warden</keyword><keyword>nihilist</keyword><keyword>nihilism</keyword><keyword>politics</keyword><keyword>crime saga</keyword><keyword>cynicism</keyword><keyword>american abroad</keyword><keyword>burned to death</keyword><keyword>corruption</keyword><keyword>burn victim</keyword><keyword>written by director</keyword><keyword>person on fire</keyword><keyword>gadget vehicle</keyword><keyword>killing spree</keyword><keyword>crime spree</keyword><keyword>reporter</keyword><keyword>offscreen killing</keyword><keyword>police raid</keyword><keyword>mission</keyword><keyword>escalation</keyword><keyword>bartender</keyword><keyword>rescue mission</keyword><keyword>cowboy hat</keyword><keyword>home invasion</keyword><keyword>thug</keyword><keyword>motorcycle stunt</keyword><keyword>bridge</keyword><keyword>female lawyer</keyword><keyword>punk</keyword><keyword>slide locked back</keyword><keyword>grappling hook</keyword><keyword>shipping container</keyword><keyword>railyard</keyword><keyword>fingerprint</keyword><keyword>job promotion</keyword><keyword>wrongful arrest</keyword><keyword>aerial shot</keyword><keyword>law</keyword><keyword>kicked in the stomach</keyword><keyword>lack of trust</keyword><keyword>self destruct</keyword><keyword>car truck chase</keyword><keyword>car motorcycle chase</keyword><keyword>punched in the face</keyword><keyword>zip line</keyword><keyword>thrown from height</keyword><keyword>crashing through a window</keyword><keyword>gadgetry</keyword><keyword>copycat</keyword><keyword>body bag</keyword><keyword>explosive</keyword><keyword>russian</keyword><keyword>car bomb</keyword><keyword>garbage truck</keyword><keyword>hit by a truck</keyword><keyword>geiger counter</keyword><keyword>machine pistol</keyword><keyword>18 wheeler</keyword><keyword>corrupt businessman</keyword><keyword>walkie talkie</keyword><keyword>human bomb</keyword><keyword>abandoned warehouse</keyword><keyword>famous score</keyword><keyword>prison guard</keyword><keyword>subtitled scene</keyword><keyword>face slap</keyword><keyword>convict</keyword><keyword>prisoner</keyword><keyword>lasersight</keyword><keyword>hit by a bus</keyword><keyword>newspaper headline</keyword><keyword>crime scene</keyword><keyword>two way mirror</keyword><keyword>power outage</keyword><keyword>ship</keyword><keyword>jailbreak</keyword><keyword>russian roulette</keyword><keyword>warehouse</keyword><keyword>elevator</keyword><keyword>letter bomb</keyword><keyword>drugged drink</keyword><keyword>police dog</keyword><keyword>airplane</keyword><keyword>animal attack</keyword><keyword>national guard</keyword><keyword>christ allegory</keyword><keyword>brutality</keyword><keyword>crime epic</keyword><keyword>box office hit</keyword><keyword>loss of loved one</keyword><keyword>gatling gun</keyword><keyword>security guard</keyword><keyword>kitchen</keyword><keyword>journalist</keyword><keyword>computer cracker</keyword><keyword>engineer</keyword><keyword>ambush</keyword><keyword>booby trap</keyword><keyword>videoconferencing</keyword><keyword>robber</keyword><keyword>bank robber</keyword><keyword>suspense</keyword><keyword>man wearing a mask</keyword><keyword>experimental technology</keyword><keyword>gang</keyword><keyword>mixed martial arts</keyword><keyword>hand grenade</keyword><keyword>police officer</keyword><keyword>domestic terrorism</keyword><keyword>vigilante justice</keyword><keyword>armored car</keyword><keyword>sadist</keyword><keyword>uzi</keyword><keyword>female cop</keyword><keyword>telling someone to shut up</keyword><keyword>remote detonator</keyword><keyword>bomb detonation device</keyword><keyword>female judge</keyword><keyword>text message</keyword><keyword>voice over letter</keyword><keyword>blocking a door with a chair</keyword><keyword>interrogation room</keyword><keyword>pile of money</keyword><keyword>homoerotic</keyword><keyword>three word title</keyword><keyword>heist</keyword><keyword>bank heist</keyword><keyword>sequel to a reboot</keyword><keyword>villain arrested</keyword><keyword>promises</keyword><keyword>face burn</keyword><keyword>fear</keyword><keyword>acid</keyword><keyword>broken neck</keyword><keyword>fall to death</keyword><keyword>joker card</keyword><keyword>pushed from height</keyword><keyword>scarecrow</keyword><keyword>stylized violence</keyword><keyword>lens flare</keyword><keyword>caught in a net</keyword><keyword>investigation</keyword><keyword>apartment</keyword><keyword>bar</keyword><keyword>coin</keyword><keyword>boyfriend girlfriend relationship</keyword><keyword>marriage proposal</keyword><keyword>double cross</keyword><keyword>news report</keyword><keyword>bag of money</keyword><keyword>rooftop</keyword><keyword>jumping from height</keyword><keyword>gash in the face</keyword><keyword>prison escape</keyword><keyword>handcuffs</keyword><keyword>disguise</keyword><keyword>deception</keyword><keyword>policewoman</keyword><keyword>arrest</keyword><keyword>father daughter relationship</keyword><keyword>mother daughter relationship</keyword><keyword>corpse</keyword><keyword>warrior</keyword><keyword>trial</keyword><keyword>rescue attempt</keyword><keyword>shot to death</keyword><keyword>shot in the chest</keyword><keyword>shot in the back</keyword><keyword>race against time</keyword><keyword>gasoline</keyword><keyword>silencer</keyword><keyword>mass murderer</keyword><keyword>police funeral</keyword><keyword>police corruption</keyword><keyword>corrupt cop</keyword><keyword>strapped to a bomb</keyword><keyword>car accident</keyword><keyword>bulletproof vest</keyword><keyword>costume</keyword><keyword>face mask</keyword><keyword>cell phone</keyword><keyword>rocket</keyword><keyword>mafia boss</keyword><keyword>grenade</keyword><keyword>dynamite</keyword><keyword>terrorism</keyword><keyword>henchman</keyword><keyword>assassin</keyword><keyword>limousine</keyword><keyword>news reporter</keyword><keyword>fire truck</keyword><keyword>ferry</keyword><keyword>assassination</keyword><keyword>broken limb</keyword><keyword>broken bone</keyword><keyword>opening action scene</keyword><keyword>bomb</keyword><keyword>duel</keyword><keyword>kiss</keyword><keyword>gangster</keyword><keyword>terrorist</keyword><keyword>gadget car</keyword><keyword>sniper rifle</keyword><keyword>sniper</keyword><keyword>brawl</keyword><keyword>gunfight</keyword><keyword>showdown</keyword><keyword>explosion</keyword><keyword>machine gun</keyword><keyword>disarming someone</keyword><keyword>one against many</keyword><keyword>martial arts</keyword><keyword>killed in car</keyword><keyword>electronic music score in style of orchestral music score</keyword><keyword>electronic music score</keyword><keyword>lifting a male into the air</keyword><keyword>jujitsu</keyword><keyword>tough guy</keyword><keyword>fistfight</keyword><keyword>shootout</keyword><keyword>subjective camera</keyword><keyword>slow motion scene</keyword><keyword>character's point of view camera shot</keyword><keyword>burning a document</keyword><keyword>media coverage</keyword><keyword>secretary</keyword><keyword>restaurant</keyword><keyword>knife in shoe</keyword><keyword>court</keyword><keyword>torture</keyword><keyword>interview</keyword><keyword>ambulance</keyword><keyword>bodyguard</keyword><keyword>parking garage</keyword><keyword>exploding body</keyword><keyword>timebomb</keyword><keyword>pool cue</keyword><keyword>pool hall</keyword><keyword>pool table</keyword><keyword>detective</keyword><keyword>shotgun</keyword><keyword>nightclub</keyword><keyword>lifting someone into the air</keyword><keyword>jumping from a rooftop</keyword><keyword>man with glasses</keyword><keyword>fake nurse</keyword><keyword>night</keyword><keyword>armored truck</keyword><keyword>gas grenade</keyword><keyword>car crash</keyword><keyword>poison</keyword><keyword>mutilation</keyword><keyword>thrown from a car</keyword><keyword>tied up</keyword><keyword>money laundering</keyword><keyword>psychological torture</keyword><keyword>beating</keyword><keyword>exploding car</keyword><keyword>police station</keyword><keyword>father son relationship</keyword><keyword>playing card</keyword><keyword>magic trick</keyword><keyword>chase</keyword><keyword>father figure</keyword><keyword>bruise</keyword><keyword>police detective</keyword><keyword>betrayal</keyword><keyword>party</keyword><keyword>swat team</keyword><keyword>hate</keyword><keyword>helicopter</keyword><keyword>detonator</keyword><keyword>knife</keyword><keyword>mother son relationship</keyword><keyword>death of loved one</keyword><keyword>justice</keyword><keyword>ballet dancer</keyword><keyword>body landing on a car</keyword><keyword>danger</keyword><keyword>ruthlessness</keyword><keyword>mauling</keyword><keyword>pistol</keyword><keyword>billiards</keyword><keyword>schizophrenia</keyword><keyword>exploding helicopter</keyword><keyword>impostor</keyword><keyword>bank manager</keyword><keyword>falling down stairs</keyword><keyword>parallel montage</keyword><keyword>blood</keyword><keyword>attempted murder</keyword><keyword>bank vault</keyword><keyword>axe</keyword><keyword>masked villain</keyword><keyword>nurse uniform</keyword><keyword>conscience</keyword><keyword>friendship</keyword><keyword>impalement</keyword><keyword>chief executive officer</keyword><keyword>broken ankle</keyword><keyword>school bus driver</keyword><keyword>visionary</keyword><keyword>thrown off a balcony</keyword><keyword>seaplane</keyword><keyword>servant</keyword><keyword>letter</keyword><keyword>sadism</keyword><keyword>blackmail</keyword><keyword>false accusation</keyword><keyword>dog</keyword><keyword>overturning car</keyword><keyword>man wearing a wig</keyword><keyword>rivalry</keyword><keyword>escape</keyword><keyword>revolver</keyword><keyword>anger</keyword><keyword>thrown through a window</keyword><keyword>courage</keyword><keyword>secret past</keyword><keyword>abandoned hospital</keyword><keyword>motorcycle</keyword><keyword>husband wife relationship</keyword><keyword>near death experience</keyword><keyword>butler</keyword><keyword>dog attack</keyword><keyword>thrown from a building</keyword><keyword>secret laboratory</keyword><keyword>blockbuster</keyword><keyword>concept car</keyword><keyword>boat</keyword><keyword>funeral</keyword><keyword>pencil</keyword><keyword>car set on fire</keyword><keyword>police officer killed</keyword><keyword>helicopter crash</keyword><keyword>dagger</keyword><keyword>masked criminal</keyword><keyword>idealism</keyword><keyword>gadget</keyword><keyword>sonar</keyword><keyword>lamborghini</keyword><keyword>face paint</keyword><keyword>broken leg</keyword><keyword>social commentary</keyword><keyword>school bus</keyword><keyword>car chase</keyword><keyword>rottweiler</keyword><keyword>business card</keyword><keyword>russian mafia</keyword><keyword>penthouse</keyword><keyword>prison</keyword><keyword>mass murder</keyword><keyword>fundraiser</keyword><keyword>mafia</keyword><keyword>violence</keyword><keyword>hanging upside down</keyword><keyword>hope</keyword><keyword>fire</keyword><keyword>video footage</keyword><keyword>master servant relationship</keyword><keyword>masked superhero</keyword><keyword>masked man</keyword><keyword>masked hero</keyword><keyword>laughing</keyword><keyword>disfigured face</keyword><keyword>death</keyword><keyword>black mask</keyword><keyword>title at the end</keyword><keyword>british actor playing american character</keyword><keyword>camouflage</keyword><keyword>conflicted hero</keyword><keyword>self sacrifice</keyword><keyword>honor</keyword><keyword>based on comic</keyword><keyword>character repeating someone else's dialogue</keyword><keyword>killer clown</keyword><keyword>clown makeup</keyword><keyword>sarcastic clapping</keyword><keyword>good versus evil</keyword><keyword>gothic</keyword><keyword>death of cast member</keyword><keyword>famous line</keyword><keyword>electrocution</keyword><keyword>rocket launcher</keyword><keyword>man with no name</keyword><keyword>faked death</keyword><keyword>burning money</keyword><keyword>comic hero</keyword><keyword>tragic villain</keyword><keyword>man dressed as a woman</keyword><keyword>drug dealer</keyword><keyword>kidnapping</keyword><keyword>evacuation</keyword><keyword>crime boss</keyword><keyword>no title at beginning</keyword><keyword>threatened with a knife</keyword><keyword>held at gunpoint</keyword><keyword>child in peril</keyword><keyword>burnt face</keyword><keyword>burned alive</keyword><keyword>bound and gagged</keyword><keyword>epic</keyword><keyword>secret identity</keyword><keyword>scar</keyword><keyword>revenge</keyword><keyword>rescue</keyword><keyword>police chase</keyword><keyword>number in character's name</keyword><keyword>no opening credits</keyword><keyword>murder</keyword><keyword>mask</keyword><keyword>lawyer</keyword><keyword>interrogation</keyword><keyword>hostage</keyword><keyword>hospital</keyword><keyword>heroism</keyword><keyword>flying</keyword><keyword>fictional city</keyword><keyword>falling from height</keyword><keyword>exploding building</keyword><keyword>damsel in distress</keyword><keyword>crime fighter</keyword><keyword>2000s</keyword><keyword>kung fu</keyword><keyword>action hero</keyword><keyword>sitting</keyword><keyword>ambiguous ending</keyword><keyword>wuxia fiction</keyword><keyword>ambiguous title</keyword><keyword>cult film</keyword><keyword>altered version of studio logo</keyword><keyword>surprise ending</keyword></RelatedKeywords></movie></movies>
