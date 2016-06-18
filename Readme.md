@@ -10,5 +10,6 @@ note : i have now limited the count to just 4 movies, remove that "if count>=5" 
 
 output of the file can be found in top250data.xml then
 
-
 Note : i have now limited the count to just 4 movies, remove that "if count>=5" part to run for all 250 movies.
+
+This is just a scrapping script written for testing purposes, beware while scrapping data, read the conditions of imdb and do it :P
